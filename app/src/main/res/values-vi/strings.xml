@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Tài khoản không tồn tại (nữa)</string>
-  <string name="account_title_address_book">Sổ địa chỉ của DAVx⁵</string>
+  <string name="account_title_address_book">Sổ địa chỉ của Twake Sync</string>
   <string name="address_books_authority_title">Sổ địa chỉ</string>
   <string name="dialog_remove">Xóa</string>
   <string name="dialog_deny">Hủy</string>
@@ -414,6 +414,6 @@
   <string name="sync_invalid_task">Đã nhận công việc không hợp lệ từ máy chủ</string>
   <string name="sync_invalid_resources_ignoring">Đang bỏ qua một hoặc nhiều tài nguyên không hợp lệ</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Sự bảo mật của kết nối</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ đã gặp một chứng chỉ không xác định. Bạn có muốn tin tưởng nó không?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Sự bảo mật của kết nối</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync đã gặp một chứng chỉ không xác định. Bạn có muốn tin tưởng nó không?</string>
 </resources>

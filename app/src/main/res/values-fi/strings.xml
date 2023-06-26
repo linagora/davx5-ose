@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
-  <string name="account_title_address_book">DAVx⁵ Osoitekirja</string>
+  <string name="account_title_address_book">Twake Sync Osoitekirja</string>
   <string name="address_books_authority_title">Osoitekirjat</string>
   <string name="help">Apua</string>
   <string name="manage_accounts">Hallitse tilejä</string>

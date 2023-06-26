@@ -8,7 +8,7 @@
     <string name="account_invalid">Account does not exist (anymore)</string>
     <string name="account_type" translatable="false">bitfire.at.davdroid</string>
     <string name="account_type_address_book" translatable="false">at.bitfire.davdroid.address_book</string>
-    <string name="account_title_address_book">DAVx⁵ Address book</string>
+    <string name="account_title_address_book">Twake Sync Address book</string>
     <string name="address_books_authority" translatable="false">com.twake.android.sync.addressbooks</string>
     <string name="address_books_authority_title">Address books</string>
     <string name="dialog_remove">Remove</string>
@@ -501,7 +501,7 @@
     <string name="sync_invalid_resources_ignoring">Ignoring one or more invalid resources</string>
 
     <!-- cert4android -->
-    <string name="certificate_notification_connection_security">DAVx⁵: Connection security</string>
-    <string name="trust_certificate_unknown_certificate_found">DAVx⁵ has encountered an unknown certificate. Do you want to trust it?</string>
+    <string name="certificate_notification_connection_security">Twake Sync: Connection security</string>
+    <string name="trust_certificate_unknown_certificate_found">Twake Sync has encountered an unknown certificate. Do you want to trust it?</string>
 
 </resources>

@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
-  <string name="account_title_address_book">DAVx⁵ adresár</string>
+  <string name="account_title_address_book">Twake Sync adresár</string>
   <string name="address_books_authority_title">Adresáre</string>
   <string name="help">Pomoc</string>
   <string name="manage_accounts">Spravovať používateľské účty</string>
@@ -239,6 +239,6 @@
   <string name="sync_invalid_task">Úloha prijatá zo servera nie je platná</string>
   <string name="sync_invalid_resources_ignoring">Ignoruje sa jeden alebo viac neplatných zdrojov</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Zabezpečenie spojenia</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ zistil neznámy certifikát. Prajete si dôverovať mu?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Zabezpečenie spojenia</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync zistil neznámy certifikát. Prajete si dôverovať mu?</string>
 </resources>

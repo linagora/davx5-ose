@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
-  <string name="account_title_address_book">DAVx⁵ imenik</string>
+  <string name="account_title_address_book">Twake Sync imenik</string>
   <string name="address_books_authority_title">Seznami s stiki</string>
   <string name="help">Pomoč</string>
   <string name="manage_accounts">Urejanje prijav</string>
@@ -223,6 +223,6 @@
   <string name="sync_invalid_task">S strežnika so bili prejeti neveljavni dogodki</string>
   <string name="sync_invalid_resources_ignoring">Eden ali več neveljavnih virov bo ignoriranih</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵:  Varnost povezave</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ je naletel na neznan certifikat. Ali mu zaupate?</string>
+  <string name="certificate_notification_connection_security">Twake Sync:  Varnost povezave</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync je naletel na neznan certifikat. Ali mu zaupate?</string>
 </resources>

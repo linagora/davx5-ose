@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
-  <string name="account_title_address_book">Ksiōnżka adresowo DAVx⁵</string>
+  <string name="account_title_address_book">Ksiōnżka adresowo Twake Sync</string>
   <string name="address_books_authority_title">Ksiōnżka adresowo</string>
   <string name="help">Pōmoc</string>
   <string name="manage_accounts">Zarzōndzej kōntami</string>
@@ -256,6 +256,6 @@
   <string name="sync_invalid_task">Dostane zadanie ze serwera je niynoleżne</string>
   <string name="sync_invalid_resources_ignoring">Ignorowanie jednego abo wiyncyj niynoleżnych zasobōw</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Bezpieczyństwo połōnczynio</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ trefiōł niyznōmy certyfikat. Chcesz go przidać?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Bezpieczyństwo połōnczynio</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync trefiōł niyznōmy certyfikat. Chcesz go przidać?</string>
 </resources>

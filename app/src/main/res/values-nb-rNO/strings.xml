@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
-  <string name="account_title_address_book">DAVx⁵-adressebok</string>
+  <string name="account_title_address_book">Twake Sync-adressebok</string>
   <string name="address_books_authority_title">Adressebøker</string>
   <string name="help">Hjelp</string>
   <string name="manage_accounts">Behandle kontoer</string>
@@ -209,6 +209,6 @@
   <string name="sync_error_retry">Forsøk igjen</string>
   <string name="sync_invalid_contact">Fikk ugyldig kontakt fra server</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Tilkoblingssikkerhet</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ har støtt på et ukjent sertifikat. Har du tiltro til det?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Tilkoblingssikkerhet</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync har støtt på et ukjent sertifikat. Har du tiltro til det?</string>
 </resources>

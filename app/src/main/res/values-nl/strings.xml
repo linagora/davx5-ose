@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Account bestaat niet (of niet meer)</string>
-  <string name="account_title_address_book">DAVx⁵ Adresboek</string>
+  <string name="account_title_address_book">Twake Sync Adresboek</string>
   <string name="address_books_authority_title">Adresboeken</string>
   <string name="dialog_remove">Verwijder</string>
   <string name="dialog_deny">Annuleer</string>
@@ -429,6 +429,6 @@
   <string name="sync_invalid_task">Ongeldige taak ontvangen van server</string>
   <string name="sync_invalid_resources_ignoring">Een of meer ongeldige bronnen negeren</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Beveiliging van de verbinding</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ is een onbekend certificaat tegengekomen. Moet het vertrouwd worden?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Beveiliging van de verbinding</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync is een onbekend certificaat tegengekomen. Moet het vertrouwd worden?</string>
 </resources>

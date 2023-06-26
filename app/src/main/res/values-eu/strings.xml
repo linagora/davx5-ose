@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Kontua ez da existitzen (dagoeneko)</string>
-  <string name="account_title_address_book">DAVx⁵ Helbide liburua</string>
+  <string name="account_title_address_book">Twake Sync Helbide liburua</string>
   <string name="address_books_authority_title">Helbide liburuak</string>
   <string name="dialog_remove">Kendu</string>
   <string name="dialog_deny">Utzi</string>
@@ -427,6 +427,6 @@
   <string name="sync_invalid_task">Zeregin baliogabea jaso da zerbitzaritik</string>
   <string name="sync_invalid_resources_ignoring">Baliabide baliogabe bat edo gehiago ezikusten</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Konexio segurtasuna</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ aplikazioak ziurtagiri ezezagun bat aurkitu du. Fidagarritzat jo nahi duzu?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Konexio segurtasuna</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync aplikazioak ziurtagiri ezezagun bat aurkitu du. Fidagarritzat jo nahi duzu?</string>
 </resources>

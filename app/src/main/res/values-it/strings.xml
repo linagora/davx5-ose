@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Account inesistente (o cancellato)</string>
-  <string name="account_title_address_book">Rubrica DAVx⁵</string>
+  <string name="account_title_address_book">Rubrica Twake Sync</string>
   <string name="address_books_authority_title">Rubriche</string>
   <string name="field_required">Questo campo è necessario</string>
   <string name="help">Aiuto</string>
@@ -388,6 +388,6 @@ Lasciare vuoto per non creare un promemoria predefinito.</string>
   <string name="sync_invalid_task">Attività non valida ricevuta dal server</string>
   <string name="sync_invalid_resources_ignoring">Una o più risorse non valide ignorate</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: sicurezza della connessione</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ ha trovato un certificato sconosciuto. Ritenerlo affidabile?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: sicurezza della connessione</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync ha trovato un certificato sconosciuto. Ritenerlo affidabile?</string>
 </resources>

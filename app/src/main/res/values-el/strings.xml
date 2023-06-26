@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Ο λογαριασμός δεν υπάρχει (πια)</string>
-  <string name="account_title_address_book">Βιβλίο διευθύνσεων DAVx⁵</string>
+  <string name="account_title_address_book">Βιβλίο διευθύνσεων Twake Sync</string>
   <string name="address_books_authority_title">Βιβλία διευθύνσεων</string>
   <string name="field_required">Αυτό το πεδίο είναι απαραίτητο </string>
   <string name="help">Βοήθεια</string>
@@ -372,6 +372,6 @@
   <string name="sync_invalid_task">Έλαβε μη έγκυρη εργασία από το διακομιστή</string>
   <string name="sync_invalid_resources_ignoring">Αγνόηση ενός ή περισσοτέρων μη έγκυρων πόρων</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Ασφάλεια σύνδεσης</string>
-  <string name="trust_certificate_unknown_certificate_found">Το DAVx⁵ εντόπισε ένα άγνωστο πιστοποιητικό. Θέλετε να το εμπιστεύεστε;</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Ασφάλεια σύνδεσης</string>
+  <string name="trust_certificate_unknown_certificate_found">Το Twake Sync εντόπισε ένα άγνωστο πιστοποιητικό. Θέλετε να το εμπιστεύεστε;</string>
 </resources>

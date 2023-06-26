@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">A felhasználói fiók (már) nem létezik</string>
-  <string name="account_title_address_book">DAVx⁵ címjegyzék</string>
+  <string name="account_title_address_book">Twake Sync címjegyzék</string>
   <string name="address_books_authority_title">Címjegyzékek</string>
   <string name="field_required">Ennek e mezőnek a megadása kötelező</string>
   <string name="help">Súgó</string>
@@ -411,6 +411,6 @@
   <string name="sync_invalid_task">A szerver érvénytelen feladatot küldött</string>
   <string name="sync_invalid_resources_ignoring">Egy vagy több érvénytelen erőforrás kihagyva</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: kapcsolatbiztonság</string>
+  <string name="certificate_notification_connection_security">Twake Sync: kapcsolatbiztonság</string>
   <string name="trust_certificate_unknown_certificate_found">Egy eddig ismeretlen tanúsítvány érkezett.  Megbízhatónak kívánja elfogadni?</string>
 </resources>
