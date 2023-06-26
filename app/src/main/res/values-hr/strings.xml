@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Račun (više) ne postoji</string>
-  <string name="account_title_address_book">DAVx⁵ Adresar</string>
+  <string name="account_title_address_book">Twake Sync Adresar</string>
   <string name="address_books_authority_title">Adresari</string>
   <string name="help">Pomoć</string>
   <string name="manage_accounts">Upravljaj računima</string>
@@ -353,6 +353,6 @@
   <string name="sync_invalid_task">Primljen je nevažeći zadatak sa poslužitelja</string>
   <string name="sync_invalid_resources_ignoring">Zanemarivanje jednog ili više nevaljanih resursa</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Sigurnost veze</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ je naišao na nepoznati certifikat. Želite li mu vjerovati?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: Sigurnost veze</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync je naišao na nepoznati certifikat. Želite li mu vjerovati?</string>
 </resources>

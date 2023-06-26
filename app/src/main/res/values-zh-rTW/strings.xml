@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">帳號（已）不存在</string>
-  <string name="account_title_address_book">DAVx⁵ 通訊錄</string>
+  <string name="account_title_address_book">Twake Sync 通訊錄</string>
   <string name="address_books_authority_title">通訊錄</string>
   <string name="field_required">此為必填欄位</string>
   <string name="help">幫助</string>
@@ -263,6 +263,6 @@
   <string name="sync_invalid_task">收到了無效的任務</string>
   <string name="sync_invalid_resources_ignoring">略過了一個或多個無效的資料</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: 連線安全性</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ 發現未知的憑證，您要信任它嗎?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: 連線安全性</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync 發現未知的憑證，您要信任它嗎?</string>
 </resources>

@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">アカウントがありません</string>
-  <string name="account_title_address_book">DAVx⁵ アドレス帳</string>
+  <string name="account_title_address_book">Twake Sync アドレス帳</string>
   <string name="address_books_authority_title">アドレス帳</string>
   <string name="dialog_remove">削除</string>
   <string name="dialog_deny">キャンセル</string>
@@ -429,6 +429,6 @@
   <string name="sync_invalid_task">サーバーから無効なタスクを受信しました</string>
   <string name="sync_invalid_resources_ignoring">1 または複数の無効なリソースを無視します</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: 接続セキュリティ</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ が未知の証明書を検出しました。信頼しますか？</string>
+  <string name="certificate_notification_connection_security">Twake Sync: 接続セキュリティ</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync が未知の証明書を検出しました。信頼しますか？</string>
 </resources>

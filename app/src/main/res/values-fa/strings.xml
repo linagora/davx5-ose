@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">حساب کاربری موجود نیست (بیشتر از این)</string>
-  <string name="account_title_address_book">کتاب آدرس DAVx⁵</string>
+  <string name="account_title_address_book">کتاب آدرس Twake Sync</string>
   <string name="address_books_authority_title">کتاب آدرس</string>
   <string name="dialog_remove">حذف</string>
   <string name="dialog_deny">لغو</string>
@@ -414,6 +414,6 @@
   <string name="sync_invalid_task">کار نامعتبر از سرور دریافت شد</string>
   <string name="sync_invalid_resources_ignoring">نادیده گرفتن یک یا چند منبع نامعتبر</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">همگام ساز DAVx⁵: امنیت اتصال</string>
-  <string name="trust_certificate_unknown_certificate_found">همگام ساز DAVx⁵ با یک گواهی ناشناخته روبرو شده است. آیا می خواهید به آن اعتماد کنید؟</string>
+  <string name="certificate_notification_connection_security">همگام ساز Twake Sync: امنیت اتصال</string>
+  <string name="trust_certificate_unknown_certificate_found">همگام ساز Twake Sync با یک گواهی ناشناخته روبرو شده است. آیا می خواهید به آن اعتماد کنید؟</string>
 </resources>

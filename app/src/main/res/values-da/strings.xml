@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">Konto findes ikke (længere)</string>
-  <string name="account_title_address_book">DAVx⁵ adressebog</string>
+  <string name="account_title_address_book">Twake Sync adressebog</string>
   <string name="address_books_authority_title">Adressebøger</string>
   <string name="dialog_remove">Fjern</string>
   <string name="dialog_deny">Annullere</string>
@@ -431,6 +431,6 @@
   <string name="sync_invalid_task">Modtaget ugyldig opgave fra server</string>
   <string name="sync_invalid_resources_ignoring">Ignorere en eller flere ugyldige kilder</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: Forbindelsessikkerhed</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ er stødt på et ukendt certifikat. Vil du stole på det? </string>
+  <string name="certificate_notification_connection_security">Twake Sync: Forbindelsessikkerhed</string>
+  <string name="trust_certificate_unknown_certificate_found">"Twake Sync er stødt på et ukendt certifikat. Vil du stole på det? "</string>
 </resources>

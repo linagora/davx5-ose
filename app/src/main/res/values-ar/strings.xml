@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
-  <string name="account_title_address_book">DAVx⁵ دفتر عناوين</string>
+  <string name="account_title_address_book">Twake Sync دفتر عناوين</string>
   <string name="address_books_authority_title">دفاتر العناوين</string>
   <string name="help">مساعدة</string>
   <string name="manage_accounts">إدارة الحسابات</string>
@@ -220,6 +220,6 @@
   <string name="sync_invalid_task">استلام مهمة غير صالحة من الخادم</string>
   <string name="sync_invalid_resources_ignoring">جرى تجاهل مورد غير صالح واحد أو أكثر</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: أمن الاتصال</string>
-  <string name="trust_certificate_unknown_certificate_found">عثر DAVx⁵ على شهادة غير معروفة. هل تريد الوثوق بها؟</string>
+  <string name="certificate_notification_connection_security">Twake Sync: أمن الاتصال</string>
+  <string name="trust_certificate_unknown_certificate_found">عثر Twake Sync على شهادة غير معروفة. هل تريد الوثوق بها؟</string>
 </resources>

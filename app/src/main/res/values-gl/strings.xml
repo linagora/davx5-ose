@@ -3,7 +3,7 @@
   <!--common strings-->
   <string name="app_name">Twake Sync</string>
   <string name="account_invalid">A conta non existe (definitivamente)</string>
-  <string name="account_title_address_book">DAVx⁵ libreta de enderezos</string>
+  <string name="account_title_address_book">Twake Sync libreta de enderezos</string>
   <string name="address_books_authority_title">Libretas de enderezos</string>
   <string name="dialog_remove">Eliminar</string>
   <string name="dialog_deny">Desbotar</string>
@@ -431,6 +431,6 @@
   <string name="sync_invalid_task">Recibida tarefa non válida desde o servidor</string>
   <string name="sync_invalid_resources_ignoring">Ignorando un ou varios recursos non válidos</string>
   <!--cert4android-->
-  <string name="certificate_notification_connection_security">DAVx⁵: seguridade da conexión</string>
-  <string name="trust_certificate_unknown_certificate_found">DAVx⁵ atopou un certificado descoñecido. Queres confiar nel?</string>
+  <string name="certificate_notification_connection_security">Twake Sync: seguridade da conexión</string>
+  <string name="trust_certificate_unknown_certificate_found">Twake Sync atopou un certificado descoñecido. Queres confiar nel?</string>
 </resources>
