@@ -69,7 +69,7 @@
   <string name="navigation_drawer_donate">贊助我們</string>
   <string name="navigation_drawer_privacy_policy">隱私權政策</string>
   <string name="account_list_no_internet">網際網絡沒有連接。Android不會進行同步。</string>
-  <string name="account_list_empty">歡迎使用 DAVx⁵!\n\n您現在可以新增 CalDAV/CardDAV 帳號</string>
+  <string name="account_list_empty">歡迎使用 Twake Sync!\n\n您現在可以新增 CalDAV/CardDAV 帳號</string>
   <string name="accounts_global_sync_disabled">操作系統的自動同步被關閉了</string>
   <string name="accounts_global_sync_enable">啟用</string>
   <!--RefreshCollectionsWorker-->
@@ -127,7 +127,7 @@
   <string name="account_refresh_calendar_list">更新行事曆清單</string>
   <string name="account_create_new_calendar">建立新行事曆</string>
   <string name="account_no_webcal_handler_found">未找到支援Webcal的APP</string>
-  <string name="account_install_icsx5">安裝ICSx⁵</string>
+  <string name="account_install_icsx5">安裝Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">新增帳號</string>
   <string name="login_type_email">用 Email 地址登入</string>
@@ -250,7 +250,7 @@
   <string name="webdav_add_mount_username">使用者帳號</string>
   <string name="webdav_add_mount_password">密碼</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ 權限</string>
+  <string name="sync_error_permissions">Twake Sync 權限</string>
   <string name="sync_error_permissions_text">需要額外的權限</string>
   <string name="sync_error_authentication_failed">鑒權失敗（你需要檢查登錄憑證）</string>
   <string name="sync_error_io">網際網絡或者輸入輸出錯誤——%s</string>

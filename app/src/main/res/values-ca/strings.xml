@@ -134,7 +134,7 @@
   <string name="account_list_manage_storage">Gestiona l\'emmagatzematge</string>
   <string name="account_list_datasaver_enabled">S\'ha activat l\'estalviador de dades. La sincronització en segon pla està restringida.</string>
   <string name="account_list_manage_datasaver">Gestió de l\'estalviador de dades</string>
-  <string name="account_list_empty">Us donem la benvinguda a DAVx⁵! \n\nAra podeu afegir un compte CalDAV / CardDAV.</string>
+  <string name="account_list_empty">Us donem la benvinguda a Twake Sync! \n\nAra podeu afegir un compte CalDAV / CardDAV.</string>
   <string name="accounts_global_sync_disabled">La sincronització automàtica de tot el sistema està inhabilitada</string>
   <string name="accounts_global_sync_enable">Activa</string>
   <string name="accounts_sync_all">Sincronitza tots els comptes</string>
@@ -231,7 +231,7 @@
   <string name="account_refresh_calendar_list">Actualitzar llista de calendaris</string>
   <string name="account_create_new_calendar">Crear nou calendari</string>
   <string name="account_no_webcal_handler_found">No s\'ha trobat cap aplicació compatible amb Webcal</string>
-  <string name="account_install_icsx5">Instal·la ICSx⁵</string>
+  <string name="account_install_icsx5">Instal·la Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Afegeix un compte</string>
   <string name="login_type_email">Inici de sessió amb una adreça de correu electrònic</string>
@@ -415,7 +415,7 @@
   <string name="webdav_notification_upload">S\'està pujant el fitxer WebDAV</string>
   <string name="webdav_provider_root_title">Muntatge WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Permisos del DAVx⁵</string>
+  <string name="sync_error_permissions">Permisos del Twake Sync</string>
   <string name="sync_error_permissions_text">Es requereixen permisos addicionals</string>
   <string name="sync_error_tasks_too_old">%s és massa antiga</string>
   <string name="sync_error_tasks_required_version">Versió mínima requerida: %1$s</string>

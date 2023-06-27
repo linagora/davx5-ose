@@ -134,7 +134,7 @@
   <string name="account_list_manage_storage">Opslag beheren</string>
   <string name="account_list_datasaver_enabled">Gegevensbesparing ingeschakeld. Synchronisatie op de achtergrond is beperkt.</string>
   <string name="account_list_manage_datasaver">Beheer van gegevensbesparing</string>
-  <string name="account_list_empty">Welkom bij DAVx⁵!\n\nJe kunt nu een CalDAV/CardDAV account toevoegen.</string>
+  <string name="account_list_empty">Welkom bij Twake Sync!\n\nJe kunt nu een CalDAV/CardDAV account toevoegen.</string>
   <string name="accounts_global_sync_disabled">Automatisch synchroniseren is voor alle accounts uitgeschakeld</string>
   <string name="accounts_global_sync_enable">Inschakelen</string>
   <string name="accounts_sync_all">Alle accounts synchroniseren</string>
@@ -231,7 +231,7 @@
   <string name="account_refresh_calendar_list">Kalenders bijwerken</string>
   <string name="account_create_new_calendar">Nieuwe kalender maken</string>
   <string name="account_no_webcal_handler_found">Geen Webcal-app gevonden</string>
-  <string name="account_install_icsx5">ICSx⁵ installeren</string>
+  <string name="account_install_icsx5">Twake Sync ICS installeren</string>
   <!--AddAccountActivity-->
   <string name="login_title">Account toevoegen</string>
   <string name="login_type_email">Inloggen met e-mailadres</string>
@@ -413,7 +413,7 @@
   <string name="webdav_notification_upload">WebDAV-bestand uploaden</string>
   <string name="webdav_provider_root_title">WebDAV-koppeling</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ rechten</string>
+  <string name="sync_error_permissions">Twake Sync rechten</string>
   <string name="sync_error_permissions_text">Aanvullende rechten vereist</string>
   <string name="sync_error_tasks_too_old">%ste oud</string>
   <string name="sync_error_tasks_required_version">Minimaal vereiste versie: %1$s</string>

@@ -112,7 +112,7 @@
   <string name="navigation_drawer_donate">Donazione</string>
   <string name="navigation_drawer_privacy_policy">Politica sulla riservatezza</string>
   <string name="account_list_no_internet">Nessuna connessione Internet. Android non eseguirà la sincronizzazione.</string>
-  <string name="account_list_empty">Benvenuto a DAVx⁵!\n\nÈ ora possibile aggiungere account CalDAV/CardDAV.</string>
+  <string name="account_list_empty">Benvenuto a Twake Sync!\n\nÈ ora possibile aggiungere account CalDAV/CardDAV.</string>
   <string name="accounts_global_sync_disabled">La sincronizzazione automatica dell\'intero sistema è disabilitata</string>
   <string name="accounts_global_sync_enable">Attiva</string>
   <string name="accounts_sync_all">Sincronizzazione di tutti gli account</string>
@@ -192,7 +192,7 @@
   <string name="account_refresh_calendar_list">Aggiorna lista calendari</string>
   <string name="account_create_new_calendar">Crea nuovo calendario</string>
   <string name="account_no_webcal_handler_found">Non ho trovato nessuna applicazione abilitata per Webcal</string>
-  <string name="account_install_icsx5">Installa ICSx⁵</string>
+  <string name="account_install_icsx5">Installa Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Aggiungi account</string>
   <string name="login_type_email">Accedi con indirizzo email</string>
@@ -373,7 +373,7 @@ Lasciare vuoto per non creare un promemoria predefinito.</string>
   <string name="webdav_notification_upload">Caricare file WebDAV</string>
   <string name="webdav_provider_root_title">Installazione WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Autorizzazioni DAVx⁵</string>
+  <string name="sync_error_permissions">Autorizzazioni Twake Sync</string>
   <string name="sync_error_permissions_text">Autorizzazioni addizionali richieste</string>
   <string name="sync_error_tasks_too_old">%s troppo vecchio</string>
   <string name="sync_error_tasks_required_version">Versione minima richiesta %1$s</string>

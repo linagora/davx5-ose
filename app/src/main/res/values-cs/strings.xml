@@ -130,7 +130,7 @@
   <string name="account_list_manage_connections">Spravovat spojení</string>
   <string name="account_list_low_storage">Zbývá málo místa na úložišti. Systém Android nespustí synchronizaci.</string>
   <string name="account_list_manage_storage">Spravovat úložiště</string>
-  <string name="account_list_empty">Vítejte v aplikaci DAVx⁵!\n\nNyní můžete přidat CalDAV/CardDAV účet.</string>
+  <string name="account_list_empty">Vítejte v aplikaci Twake Sync!\n\nNyní můžete přidat CalDAV/CardDAV účet.</string>
   <string name="accounts_global_sync_disabled">Automatická synchronizace v rámci celého systému je vypnutá</string>
   <string name="accounts_global_sync_enable">Zapnout</string>
   <string name="accounts_sync_all">Synchronizovat všechny účty</string>
@@ -226,7 +226,7 @@
   <string name="account_refresh_calendar_list">Znovu načíst seznam kalendářů</string>
   <string name="account_create_new_calendar">Vytvořit nový kalendář</string>
   <string name="account_no_webcal_handler_found">Nenalezena žádná aplikace, která by umožňovala webcal</string>
-  <string name="account_install_icsx5">Nainstalovat ICSx⁵</string>
+  <string name="account_install_icsx5">Nainstalovat Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Přidat účet</string>
   <string name="login_type_email">Přihlášení se e-mailovou adresou</string>
@@ -412,7 +412,7 @@
   <string name="webdav_notification_upload">Nahrává se WebDAV soubor</string>
   <string name="webdav_provider_root_title">WebDAV připojení</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ oprávnění</string>
+  <string name="sync_error_permissions">Twake Sync oprávnění</string>
   <string name="sync_error_permissions_text">Vyžadována dodatečná oprávnění</string>
   <string name="sync_error_tasks_too_old">Příliš stará verze %s</string>
   <string name="sync_error_tasks_required_version">Nejnižší požadovaná verze: %1$s</string>

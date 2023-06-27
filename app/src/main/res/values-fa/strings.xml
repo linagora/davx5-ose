@@ -132,7 +132,7 @@
   <string name="account_list_manage_storage">مدیریت حافظه</string>
   <string name="account_list_datasaver_enabled">محافظ داده فعال است. همگام سازی در پس زمینه محدود می شود.</string>
   <string name="account_list_manage_datasaver">مدیریت محافظ داده</string>
-  <string name="account_list_empty">به همگام‌ساز DAVx⁵ خوش آمدید</string>
+  <string name="account_list_empty">به همگام‌ساز Twake Sync خوش آمدید</string>
   <string name="accounts_global_sync_disabled">همگام سازی خودکار در کل سیستم غیرفعال است</string>
   <string name="accounts_global_sync_enable">فعال</string>
   <string name="accounts_sync_all">همگام سازی همه حساب‌ها</string>
@@ -229,7 +229,7 @@
   <string name="account_refresh_calendar_list">تازه کردن لیست تقویم</string>
   <string name="account_create_new_calendar">تقویم جدید ایجاد کنید</string>
   <string name="account_no_webcal_handler_found">هیچ برنامه ای با قابلیت Webcal پیدا نشد</string>
-  <string name="account_install_icsx5">ICSx⁵ را نصب کنید</string>
+  <string name="account_install_icsx5">Twake Sync ICS را نصب کنید</string>
   <!--AddAccountActivity-->
   <string name="login_title">افزودن حساب</string>
   <string name="login_type_email">با آدرس ایمیل وارد شوید</string>
@@ -399,7 +399,7 @@
   <string name="webdav_notification_download">بارگیری فایل WebDAV</string>
   <string name="webdav_notification_upload">بارگذاری فایل WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">مجوزهای همگام‌ساز DAVx⁵</string>
+  <string name="sync_error_permissions">مجوزهای همگام‌ساز Twake Sync</string>
   <string name="sync_error_permissions_text">مجوزهای اضافی لازم است</string>
   <string name="sync_error_tasks_too_old">%s خیلی قدیمی است</string>
   <string name="sync_error_tasks_required_version">حداقل نسخه مورد نیاز: %1$s</string>

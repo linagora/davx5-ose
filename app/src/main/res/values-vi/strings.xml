@@ -123,7 +123,7 @@
   <string name="navigation_drawer_privacy_policy">Chính sách riêng tư</string>
   <string name="account_list_no_internet">Không có kết nối internet. Android sẽ không chạy đồng bộ hoá.</string>
   <string name="account_list_low_storage">Dung lượng bộ nhớ thấp. Android sẽ không thực hiện đồng bộ.</string>
-  <string name="account_list_empty">Chào mừng đến DAVx⁵!\n\nBạn có thể thêm một tài khoản CalDAV/CardDAV ngay.</string>
+  <string name="account_list_empty">Chào mừng đến Twake Sync!\n\nBạn có thể thêm một tài khoản CalDAV/CardDAV ngay.</string>
   <string name="accounts_global_sync_disabled">Đồng bộ hoá tự động trên toàn hệ thống bị tắt</string>
   <string name="accounts_global_sync_enable">Bật</string>
   <string name="accounts_sync_all">Đồng bộ tất cả tài khoản</string>
@@ -219,7 +219,7 @@
   <string name="account_refresh_calendar_list">Làm mới danh sách lịch</string>
   <string name="account_create_new_calendar">Tạo lịch mới</string>
   <string name="account_no_webcal_handler_found">Không tìm thấy ứng dụng nào có khả năng xử lý Webcal</string>
-  <string name="account_install_icsx5">Cài đặt ICSx⁵</string>
+  <string name="account_install_icsx5">Cài đặt Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Thêm tài khoản</string>
   <string name="login_type_email">Đăng nhập bằng địa chỉ email</string>
@@ -399,7 +399,7 @@
   <string name="webdav_notification_upload">Đang tải lên tệp WebDAV</string>
   <string name="webdav_provider_root_title">Nơi gắn WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Quyền của DAVx⁵</string>
+  <string name="sync_error_permissions">Quyền của Twake Sync</string>
   <string name="sync_error_permissions_text">Yêu cầu quyền bổ sung</string>
   <string name="sync_error_tasks_too_old">%s quá cũ</string>
   <string name="sync_error_tasks_required_version">Phiên bản tối thiểu được yêu cầu: %1$s</string>

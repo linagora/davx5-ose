@@ -50,7 +50,7 @@
   <string name="navigation_drawer_open">Ôtwōrz myni nawigacyje</string>
   <string name="navigation_drawer_close">Zawrzij myni nawigacyje</string>
   <string name="navigation_drawer_subtitle">Adapter synchrōnizacyje CalDAV/CardDAV</string>
-  <string name="navigation_drawer_about">Ô DAVx⁵ / Licyncyjo</string>
+  <string name="navigation_drawer_about">Ô Twake Sync / Licyncyjo</string>
   <string name="navigation_drawer_beta_feedback">Przekoż ôpinijo</string>
   <string name="install_email_client">Zainstaluj klijynt emaila</string>
   <string name="install_browser">Zainstaluj przeglōndarka internetowo</string>
@@ -63,7 +63,7 @@
   <string name="navigation_drawer_donate">Dowka</string>
   <string name="navigation_drawer_privacy_policy">Polityka prywatności</string>
   <string name="account_list_no_internet">Brak połōnczynio z internetym. Android niy bydzie synchrōnizować.</string>
-  <string name="account_list_empty">Witōmy w DAVx⁵!\n\nMożesz teroz przidać kōnto CalDAV/CardDAV.</string>
+  <string name="account_list_empty">Witōmy w Twake Sync!\n\nMożesz teroz przidać kōnto CalDAV/CardDAV.</string>
   <string name="accounts_global_sync_disabled">Autōmatyczno synchrōnizacyjo dlo cołkigo systymu je zastawiōno</string>
   <string name="accounts_global_sync_enable">Włōncz</string>
   <!--RefreshCollectionsWorker-->
@@ -118,7 +118,7 @@
   <string name="account_refresh_calendar_list">Ôdświyż wykoz kalyndorzōw</string>
   <string name="account_create_new_calendar">Stwōrz nowy kalyndorz</string>
   <string name="account_no_webcal_handler_found">Niy szło znojś aplikacyje, co ôbsuguje Webcal</string>
-  <string name="account_install_icsx5">Zainstaluj ICSx⁵</string>
+  <string name="account_install_icsx5">Zainstaluj Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Przidej kōnto</string>
   <string name="login_type_email">Logowanie ze pōmocōm adresy e-mail</string>
@@ -243,7 +243,7 @@
   <string name="webdav_add_mount_username">Miano używocza</string>
   <string name="webdav_add_mount_password">Hasło</string>
   <!--sync-->
-  <string name="sync_error_permissions">Uprawniynia DAVx⁵</string>
+  <string name="sync_error_permissions">Uprawniynia Twake Sync</string>
   <string name="sync_error_permissions_text">Wymogane ekstra uprawniynia</string>
   <string name="sync_error_authentication_failed">Autoryzacyjo sie niy podarziła (dej pozōr na dane logowanio)</string>
   <string name="sync_error_io">Feler necu abo I/O – %s</string>

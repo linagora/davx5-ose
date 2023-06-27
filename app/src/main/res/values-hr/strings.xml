@@ -106,7 +106,7 @@
   <string name="navigation_drawer_donate">Doniraj</string>
   <string name="navigation_drawer_privacy_policy">Pravila o zaštiti privatnosti</string>
   <string name="account_list_no_internet">Nema internet veze. Android neće pokrenuti sinkronizaciju.</string>
-  <string name="account_list_empty">Dobrodošli u DAVx⁵!\n\nSada možete dodati CalDAV/CardDAV račun.</string>
+  <string name="account_list_empty">Dobrodošli u Twake Sync!\n\nSada možete dodati CalDAV/CardDAV račun.</string>
   <string name="accounts_global_sync_disabled">Automatska sinkronizacija je onemogućena na razini sustava</string>
   <string name="accounts_global_sync_enable">Omogući</string>
   <string name="accounts_sync_all">Sinkroniziraj sve račune</string>
@@ -180,7 +180,7 @@
   <string name="account_refresh_calendar_list">Osvježi popis kalendara</string>
   <string name="account_create_new_calendar">Kreiraj novi kalendar</string>
   <string name="account_no_webcal_handler_found">Aplikacija sa Webcal mogućnostima nije pronađena</string>
-  <string name="account_install_icsx5">Instaliraj ICSx⁵</string>
+  <string name="account_install_icsx5">Instaliraj Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Dodaj račun</string>
   <string name="login_type_email">Prijavi se sa adresom e-pošte</string>
@@ -338,7 +338,7 @@
   <string name="webdav_add_mount_username">Korisničko ime</string>
   <string name="webdav_add_mount_password">Lozinka</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ dopuštenja</string>
+  <string name="sync_error_permissions">Twake Sync dopuštenja</string>
   <string name="sync_error_permissions_text">Dodatna dopuštenja su potrebna</string>
   <string name="sync_error_tasks_too_old">%s prestar</string>
   <string name="sync_error_tasks_required_version">Najmanja potrebno verzija: %1$s</string>

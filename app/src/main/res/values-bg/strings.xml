@@ -133,7 +133,7 @@
   <string name="account_list_manage_storage">Управление на хранилището</string>
   <string name="account_list_datasaver_enabled">Включена е икономия на данни. Синхронизацията във фонов режим е ограничена.</string>
   <string name="account_list_manage_datasaver">Икономия на трафик</string>
-  <string name="account_list_empty">Добре дошли при DAVx⁵!\n\nМожете да добавите регистрация за CalDAV/CardDAV.</string>
+  <string name="account_list_empty">Добре дошли при Twake Sync!\n\nМожете да добавите регистрация за CalDAV/CardDAV.</string>
   <string name="accounts_global_sync_disabled">Автоматичното синхронизиране е изключено на ниво система</string>
   <string name="accounts_global_sync_enable">Включване</string>
   <string name="accounts_sync_all">Синхронизиране на всички профили</string>
@@ -230,7 +230,7 @@
   <string name="account_refresh_calendar_list">Презареждане на календари</string>
   <string name="account_create_new_calendar">Създаване на календар</string>
   <string name="account_no_webcal_handler_found">Няма инсталирана програма за Webcal абонамент.</string>
-  <string name="account_install_icsx5">Инсталиране на ICSx⁵</string>
+  <string name="account_install_icsx5">Инсталиране на Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Нова регистрация</string>
   <string name="login_type_email">Вход с електронна поща</string>
@@ -412,7 +412,7 @@
   <string name="webdav_notification_upload">Изпраща се файл на WebDAV</string>
   <string name="webdav_provider_root_title">Дял на WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Разрешения на DAVx⁵</string>
+  <string name="sync_error_permissions">Разрешения на Twake Sync</string>
   <string name="sync_error_permissions_text">Необходими са допълнителни разрешения</string>
   <string name="sync_error_tasks_too_old">Приложението %s е твърде старо</string>
   <string name="sync_error_tasks_required_version">Минимално необходимо издание: %1$s</string>

@@ -134,7 +134,7 @@
   <string name="account_list_manage_storage">管理存储</string>
   <string name="account_list_datasaver_enabled">启用了流量节省程序。后台同步受限</string>
   <string name="account_list_manage_datasaver">管理流量节省程序</string>
-  <string name="account_list_empty">欢迎使用 DAVx⁵！\n\n请开始增加 CalDAV/CardDAV 账户。</string>
+  <string name="account_list_empty">欢迎使用 Twake Sync！\n\n请开始增加 CalDAV/CardDAV 账户。</string>
   <string name="accounts_global_sync_disabled">系统全局自动同步已禁用</string>
   <string name="accounts_global_sync_enable">启用</string>
   <string name="accounts_sync_all">同步所有账户</string>
@@ -231,7 +231,7 @@
   <string name="account_refresh_calendar_list">刷新日历列表</string>
   <string name="account_create_new_calendar">创建日历</string>
   <string name="account_no_webcal_handler_found">找不到支持 Webcal 的应用</string>
-  <string name="account_install_icsx5">安装 ICSx⁵</string>
+  <string name="account_install_icsx5">安装 Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">增加账户</string>
   <string name="login_type_email">使用邮箱地址登录</string>
@@ -413,7 +413,7 @@
   <string name="webdav_notification_upload">正在上传 WebDAV 文件</string>
   <string name="webdav_provider_root_title">WebDAV 文件系统</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ 权限</string>
+  <string name="sync_error_permissions">Twake Sync 权限</string>
   <string name="sync_error_permissions_text">需要额外权限</string>
   <string name="sync_error_tasks_too_old">%s太旧</string>
   <string name="sync_error_tasks_required_version">最低要求版本: %1$s</string>
