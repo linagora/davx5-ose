@@ -45,27 +45,6 @@ class DefaultLoginCredentialsFragment : Fragment() {
         if (savedInstanceState == null)
             activity?.intent?.let { model.initialize(it) }
 
-        v.loginUrlBaseUrlEdittext.setAdapter(DefaultLoginCredentialsModel.LoginUrlAdapter(requireActivity()))
-
-        v.selectCertificate.setOnClickListener {
-            KeyChain.choosePrivateKeyAlias(requireActivity(), { alias ->
-                Handler(Looper.getMainLooper()).post {
-
-                    // Show a Snackbar to add a certificate if no certificate was found
-                    // API Versions < 29 still handle this automatically
-                    if (alias == null && android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.Q)  {
-                        Snackbar.make(v.root, R.string.login_no_certificate_found, Snackbar.LENGTH_LONG)
-                                .setAction(R.string.login_install_certificate) {
-                                    startActivity(KeyChain.createInstallIntent())
-                                }
-                                .show()
-                        }
-                    else
-                       model.certificateAlias.value = alias
-                }
-            }, null, null, null, -1, model.certificateAlias.value)
-        }
-
         v.login.setOnClickListener {
             if (validate())
                 parentFragmentManager.beginTransaction()
