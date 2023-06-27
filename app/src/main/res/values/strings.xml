@@ -116,6 +116,7 @@
     <string name="about_flavor_info">This version is only eligible for distribution over Google Play.</string>
     <string name="about_license_info_no_warranty">This program comes with ABSOLUTELY NO WARRANTY. It is free software, and you are welcome to redistribute it under certain conditions.</string>
     <string name="about_translations_thanks"><![CDATA[<i>Thanks to: </i> %s]]></string>
+    <string name="about_fork_introduction">Twake Sync enables you to sync the contacts and calendars in Twake Workplace. This application is a fork of the OpenSource  DAVx⁵ solution.</string>
 
     <!-- global settings -->
     <string name="logging_couldnt_create_file">Couldn\'t create log file</string>
