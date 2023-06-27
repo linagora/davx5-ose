@@ -65,7 +65,7 @@ class OseAccountsDrawerHandler @Inject constructor(): BaseAccountsDrawerHandler(
             R.id.nav_privacy ->
                 UiUtils.launchUri(
                     activity,
-                    App.homepageUrl(activity).buildUpon().appendPath("privacy").build()
+                    App.homepageUrl(activity).buildUpon().appendPath("en/legal/privacy/").build()
                 )
 
             else ->
