@@ -76,7 +76,7 @@ object Logger : SharedPreferences.OnSharedPreferenceChangeListener {
         // log to external file according to preferences
         if (logToFile) {
             val logDir = debugDir() ?: return
-            val logFile = File(logDir, "davx5-log.txt")
+            val logFile = File(logDir, "twake-sync-log.txt")
             if (logFile.createNewFile())
                 logFile.writeText("Log file created at ${Date()}; PID ${Process.myPid()}; UID ${Process.myUid()}\n")
 
