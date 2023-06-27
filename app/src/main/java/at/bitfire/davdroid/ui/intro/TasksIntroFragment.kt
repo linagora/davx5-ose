@@ -31,13 +31,7 @@ class TasksIntroFragment : Fragment() {
 
         override fun getOrder(context: Context): Int {
             // On Android <6, OpenTasks must be installed before DAVx5, so this fragment is not useful.
-            if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M)
-                return IntroFragmentFactory.DONT_SHOW
-
-            return if (!TaskUtils.isAvailable(context) && settingsManager.getBooleanOrNull(TasksFragment.Model.HINT_OPENTASKS_NOT_INSTALLED) != false)
-                10
-            else
-                IntroFragmentFactory.DONT_SHOW
+            return 0
         }
 
         override fun create() = TasksIntroFragment()

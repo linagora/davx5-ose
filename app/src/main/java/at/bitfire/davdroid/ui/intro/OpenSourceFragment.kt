@@ -74,11 +74,7 @@ class OpenSourceFragment: Fragment() {
         val settingsManager: SettingsManager
     ): IntroFragmentFactory {
 
-        override fun getOrder(context: Context) =
-            if (System.currentTimeMillis() > (settingsManager.getLongOrNull(SETTING_NEXT_DONATION_POPUP) ?: 0))
-                100
-            else
-                0
+        override fun getOrder(context: Context) = 0
 
         override fun create() = OpenSourceFragment()
 
