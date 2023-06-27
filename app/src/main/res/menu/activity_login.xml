@@ -8,6 +8,7 @@
         android:title="@string/help"
         android:icon="@drawable/ic_help"
         app:showAsAction="always"
+        android:visible="false"
         android:onClick="showHelp">
     </item>
     
