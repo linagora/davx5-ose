@@ -133,7 +133,7 @@
   <string name="account_list_manage_storage">Hantera lagring</string>
   <string name="account_list_datasaver_enabled">Begränsad data-synkronisering aktiverad. Begränsad bakgrundssynkronisering.</string>
   <string name="account_list_manage_datasaver">Hantera begränsad data-synkronisering</string>
-  <string name="account_list_empty">Välkommen till DAVx⁵!\n\nDu kan lägga till ett CalDAV/CardDAV-konto nu.</string>
+  <string name="account_list_empty">Välkommen till Twake Sync!\n\nDu kan lägga till ett CalDAV/CardDAV-konto nu.</string>
   <string name="accounts_global_sync_disabled">Systemomfattande automatisk synkronisering är inaktiverad</string>
   <string name="accounts_global_sync_enable">Aktivera</string>
   <string name="accounts_sync_all">Synkronisera alla konton</string>
@@ -230,7 +230,7 @@
   <string name="account_refresh_calendar_list">Uppdatera kalenderlistan</string>
   <string name="account_create_new_calendar">Skapa ny kalender</string>
   <string name="account_no_webcal_handler_found">Ingen Webcal-kompatibel app hittades</string>
-  <string name="account_install_icsx5">Installera ICSx⁵</string>
+  <string name="account_install_icsx5">Installera Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Lägg till konto</string>
   <string name="login_type_email">Logga in med e-postadress</string>
@@ -412,7 +412,7 @@
   <string name="webdav_notification_upload">Laddar upp WebDAV-fil</string>
   <string name="webdav_provider_root_title">WebDAV-fäste</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵-behörigheter</string>
+  <string name="sync_error_permissions">Twake Sync-behörigheter</string>
   <string name="sync_error_permissions_text">Ytterligare behörigheter krävs</string>
   <string name="sync_error_tasks_too_old">%s för gammal</string>
   <string name="sync_error_tasks_required_version">Minsta obligatoriska version: %1$s</string>

@@ -133,7 +133,7 @@
   <string name="account_list_manage_storage">Kudeatu biltegia</string>
   <string name="account_list_datasaver_enabled">Datu-aurrezpena gaituta. Atzeko planoko sinkronizazioa murriztuko da.</string>
   <string name="account_list_manage_datasaver">Kudeatu datu-aurrezpena</string>
-  <string name="account_list_empty">Ongi etorri DAVx⁵ aplikaziora!\n\nCalDAV/CardDAV kontu bat gehitu dezakezu orain.</string>
+  <string name="account_list_empty">Ongi etorri Twake Sync aplikaziora!\n\nCalDAV/CardDAV kontu bat gehitu dezakezu orain.</string>
   <string name="accounts_global_sync_disabled">Sistema osoko sinkronizazio automatikoa desgaituta dago</string>
   <string name="accounts_global_sync_enable">Gaitu</string>
   <string name="accounts_sync_all">Sinkronizatu kontu guztiak</string>
@@ -230,7 +230,7 @@
   <string name="account_refresh_calendar_list">Freskatu egutegi zerrenda</string>
   <string name="account_create_new_calendar">Sortu egutegi berria</string>
   <string name="account_no_webcal_handler_found">Ez da Webcal-ekin bateragarria den aplikaziorik aurkitu</string>
-  <string name="account_install_icsx5">Instalatu ICSx⁵</string>
+  <string name="account_install_icsx5">Instalatu Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Gehitu kontua</string>
   <string name="login_type_email">Saioa hasi helbide elektronikoarekin</string>
@@ -412,7 +412,7 @@
   <string name="webdav_notification_upload">WebDAV fitxategia kargatzen</string>
   <string name="webdav_provider_root_title">WebDAV muntaia</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ baimenak</string>
+  <string name="sync_error_permissions">Twake Sync baimenak</string>
   <string name="sync_error_permissions_text">Baimen gehigarriak beharrezkoak</string>
   <string name="sync_error_tasks_too_old">%s zaharregia</string>
   <string name="sync_error_tasks_required_version">Beharrezko bertsio minimoa: %1$s</string>

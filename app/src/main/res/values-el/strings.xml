@@ -108,7 +108,7 @@
   <string name="navigation_drawer_privacy_policy">Πολιτική απορρήτου</string>
   <string name="account_list_no_internet">Δεν υπάρχει σύνδεση στο Διαδίκτυο. Το Android δεν θα πραγματοποιήσει συγχρονισμό.</string>
   <string name="account_list_low_storage">Χαμηλός αποθηκευτικός χώρος. Το Android δεν θα εκτελέσει συγχρονισμό.</string>
-  <string name="account_list_empty">Καλώς ήρθατε στο DAVx⁵!\n\nΜπορείτε να προσθέσετε τώρα έναν λογαριασμό CalDAV/CardDAV.</string>
+  <string name="account_list_empty">Καλώς ήρθατε στο Twake Sync!\n\nΜπορείτε να προσθέσετε τώρα έναν λογαριασμό CalDAV/CardDAV.</string>
   <string name="accounts_global_sync_disabled">Ο αυτόματος συγχρονισμός σε όλο το σύστημα είναι απενεργοποιημένος</string>
   <string name="accounts_global_sync_enable">Ενεργοποίηση</string>
   <string name="accounts_sync_all">Συγχρονισμός όλων των λογαριασμών</string>
@@ -192,7 +192,7 @@
   <string name="account_refresh_calendar_list">Ανανέωση λίστας ημερολογίου</string>
   <string name="account_create_new_calendar">Δημιουργία νέου ημερολογίου</string>
   <string name="account_no_webcal_handler_found">Δεν βρέθηκε εφαρμογή με δυνατότητα Webcal</string>
-  <string name="account_install_icsx5">Εγκατάσταση ICSx⁵</string>
+  <string name="account_install_icsx5">Εγκατάσταση Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Προσθήκη λογαριασμού</string>
   <string name="login_type_email">Είσοδος με την διεύθυνση email</string>
@@ -357,7 +357,7 @@
   <string name="webdav_notification_upload">Ανέβασμα αρχείου WebDAV</string>
   <string name="webdav_provider_root_title">Bάση WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Δικαιώματα DAVx⁵</string>
+  <string name="sync_error_permissions">Δικαιώματα Twake Sync</string>
   <string name="sync_error_permissions_text">Απαιτούνται πρόσθετα δικαιώματα</string>
   <string name="sync_error_tasks_too_old">Παλιά έκδοση %s</string>
   <string name="sync_error_tasks_required_version">Ελάχιστη απαιτούμενη έκδοση: %1$s</string>

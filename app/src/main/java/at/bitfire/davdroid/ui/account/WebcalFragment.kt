@@ -142,7 +142,7 @@ class WebcalFragment: CollectionsFragment() {
             else {
                 val snack = Snackbar.make(parent, R.string.account_no_webcal_handler_found, Snackbar.LENGTH_LONG)
 
-                val installIntent = Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=at.bitfire.icsdroid"))
+                val installIntent = Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.twake.android.sync.ics"))
                 if (activity.packageManager.resolveActivity(installIntent, 0) != null)
                     snack.setAction(R.string.account_install_icsx5) {
                         activity.startActivityForResult(installIntent, 0)

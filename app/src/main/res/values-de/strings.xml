@@ -230,7 +230,7 @@
   <string name="account_refresh_calendar_list">Kalender neu erkennen</string>
   <string name="account_create_new_calendar">Neuen Kalender erstellen</string>
   <string name="account_no_webcal_handler_found">Keine Webcal-App gefunden</string>
-  <string name="account_install_icsx5">ICSx⁵ installieren</string>
+  <string name="account_install_icsx5">Twake Sync ICS installieren</string>
   <!--AddAccountActivity-->
   <string name="login_title">Konto hinzufügen</string>
   <string name="login_type_email">Mit E-Mail-Adresse anmelden</string>
@@ -412,7 +412,7 @@
   <string name="webdav_notification_upload">WebDAV-Upload</string>
   <string name="webdav_provider_root_title">WebDAV-Zugang</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵-Berechtigungen</string>
+  <string name="sync_error_permissions">Twake Sync-Berechtigungen</string>
   <string name="sync_error_permissions_text">Zusätzliche Berechtigungen benötigt</string>
   <string name="sync_error_tasks_too_old">%s zu alt</string>
   <string name="sync_error_tasks_required_version">Benötigte Mindestversion: %1$s</string>

@@ -134,7 +134,7 @@
   <string name="account_list_manage_storage">Xestionar almacenaxe</string>
   <string name="account_list_datasaver_enabled">O aforro de datos está activado. A sincronización en segundo plano está restrinxida.</string>
   <string name="account_list_manage_datasaver">Xestionar aforro de datos</string>
-  <string name="account_list_empty">Benvida a DAVx⁵!\n\nXa podes engadir unha conta CalDAV/CardDAV</string>
+  <string name="account_list_empty">Benvida a Twake Sync!\n\nXa podes engadir unha conta CalDAV/CardDAV</string>
   <string name="accounts_global_sync_disabled">A sincronización global automática do sistema está desactivada</string>
   <string name="accounts_global_sync_enable">Activar</string>
   <string name="accounts_sync_all">Sincroniza todas as contas</string>
@@ -231,7 +231,7 @@
   <string name="account_refresh_calendar_list">Actualizar lista de calendario</string>
   <string name="account_create_new_calendar">Crear novo calendario</string>
   <string name="account_no_webcal_handler_found">Non se atopou app para Webcal</string>
-  <string name="account_install_icsx5">Instalar ICSx⁵</string>
+  <string name="account_install_icsx5">Instalar Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Engadir conta</string>
   <string name="login_type_email">Conectar con enderezo de correo-e</string>
@@ -415,7 +415,7 @@
   <string name="webdav_notification_upload">Subindo ficheiro WebDAV</string>
   <string name="webdav_provider_root_title">Montaxe WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Permisos DAVx⁵</string>
+  <string name="sync_error_permissions">Permisos Twake Sync</string>
   <string name="sync_error_permissions_text">Precísanse permisos adicionais</string>
   <string name="sync_error_tasks_too_old">%s demasiado antigo</string>
   <string name="sync_error_tasks_required_version">Versión mínima requerida: %1$s</string>

@@ -73,7 +73,7 @@
   <string name="navigation_drawer_manual">Priročnik</string>
   <string name="navigation_drawer_faq">Pogosta vprašanja</string>
   <string name="navigation_drawer_donate">Prispevaj</string>
-  <string name="account_list_empty">Dobrodošli v DAVx⁵!\n\nZdaj lahko dodate CalDAV/CardDAV račun.</string>
+  <string name="account_list_empty">Dobrodošli v Twake Sync!\n\nZdaj lahko dodate CalDAV/CardDAV račun.</string>
   <string name="accounts_global_sync_disabled">Sistemska avtomatska sinhronizacija je izklopljena</string>
   <string name="accounts_global_sync_enable">Omogoči</string>
   <!--RefreshCollectionsWorker-->
@@ -131,7 +131,7 @@
   <string name="account_refresh_calendar_list">Osveži seznam koledarjev</string>
   <string name="account_create_new_calendar">Ustvari nov koledar</string>
   <string name="account_no_webcal_handler_found">Nobena Webcal sposobna aplikacija ni bila najdena</string>
-  <string name="account_install_icsx5">Namesti ICSx⁵</string>
+  <string name="account_install_icsx5">Namesti Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Dodaj račun</string>
   <string name="login_type_email">Prijava z email naslovom</string>
@@ -245,7 +245,7 @@
   <string name="webdav_add_mount_username">Uporabniško ime</string>
   <string name="webdav_add_mount_password">Geslo</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ dovoljenja</string>
+  <string name="sync_error_permissions">Twake Sync dovoljenja</string>
   <string name="sync_error_permissions_text">Dodatna dovoljenja so zahtevana</string>
   <string name="sync_error_authentication_failed">Avtentikacija ni uspela (preverite podatke prijave)</string>
   <string name="sync_error_io">Omrežna ali I/O napaka -- %s</string>

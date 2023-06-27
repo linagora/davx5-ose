@@ -133,7 +133,7 @@
   <string name="account_list_manage_storage">Zarządzaj pamięcią</string>
   <string name="account_list_datasaver_enabled">Włączono oszczędzanie danych. Synchronizacja w tle jest ograniczona.</string>
   <string name="account_list_manage_datasaver">Zarządzaj oszczędzaniem danych</string>
-  <string name="account_list_empty">Witamy w DAVx⁵!\n\nMożesz teraz dodać konto CalDAV/CardDAV.</string>
+  <string name="account_list_empty">Witamy w Twake Sync!\n\nMożesz teraz dodać konto CalDAV/CardDAV.</string>
   <string name="accounts_global_sync_disabled">Automatyczna synchronizacja dla całego systemu jest wyłączona</string>
   <string name="accounts_global_sync_enable">Włącz</string>
   <string name="accounts_sync_all">Synchronizuj wszystkie konta</string>
@@ -230,7 +230,7 @@
   <string name="account_refresh_calendar_list">Odśwież listę kalendarzy</string>
   <string name="account_create_new_calendar">Stwórz nowy kalendarz</string>
   <string name="account_no_webcal_handler_found">Nie znaleziono aplikacji obsługującej Webcal</string>
-  <string name="account_install_icsx5">Zainstaluj ICSx⁵</string>
+  <string name="account_install_icsx5">Zainstaluj Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">Dodaj konto</string>
   <string name="login_type_email">Logowanie za pomocą adresu e‑mail</string>
@@ -416,7 +416,7 @@
   <string name="webdav_notification_upload">Wgrywanie pliku WebDAV</string>
   <string name="webdav_provider_root_title">Punkt linkowania WebDAV</string>
   <!--sync-->
-  <string name="sync_error_permissions">Uprawnienia DAVx⁵</string>
+  <string name="sync_error_permissions">Uprawnienia Twake Sync</string>
   <string name="sync_error_permissions_text">Wymagane dodatkowe uprawnienia</string>
   <string name="sync_error_tasks_too_old">%s zbyt stary/a</string>
   <string name="sync_error_tasks_required_version">Minimalna wymagana wersja: %1$s</string>

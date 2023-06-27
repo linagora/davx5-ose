@@ -40,7 +40,7 @@
   <string name="navigation_drawer_manual">دليل الاستخدام</string>
   <string name="navigation_drawer_faq">الأسئلة الشائعة</string>
   <string name="navigation_drawer_donate">تبرَّع</string>
-  <string name="account_list_empty">مرحباً بك في DAVx⁵ !\n\n يمكنك إضافة حساب CalDAV أو CardDAV الآن.</string>
+  <string name="account_list_empty">مرحباً بك في Twake Sync !\n\n يمكنك إضافة حساب CalDAV أو CardDAV الآن.</string>
   <string name="accounts_global_sync_disabled">تم تعطيل المزامنة التلقائية على مستوى النظام</string>
   <string name="accounts_global_sync_enable">تفعيل</string>
   <!--RefreshCollectionsWorker-->
@@ -91,7 +91,7 @@
   <string name="account_refresh_calendar_list">تجديد قائمة التقويم</string>
   <string name="account_create_new_calendar">إنشاء تقويم جديد</string>
   <string name="account_no_webcal_handler_found">لم نجِد تطبيقاً قادراً على استخدام Webcal</string>
-  <string name="account_install_icsx5">تثبيت ICSx⁵</string>
+  <string name="account_install_icsx5">تثبيت Twake Sync ICS</string>
   <!--AddAccountActivity-->
   <string name="login_title">إضافة حساب</string>
   <string name="login_type_email">تسجيل الدخول بعنوان البريد</string>
@@ -207,7 +207,7 @@
   <string name="webdav_add_mount_username">اسم المستخدم</string>
   <string name="webdav_add_mount_password">كلمة المرور</string>
   <!--sync-->
-  <string name="sync_error_permissions">أذونات DAVx⁵</string>
+  <string name="sync_error_permissions">أذونات Twake Sync</string>
   <string name="sync_error_permissions_text">مطلوب أذونات إضافية</string>
   <string name="sync_error_authentication_failed">فشلت المصادقة (تحقق من بيانات تسجيل الدخول)</string>
   <string name="sync_error_io">خطأ شبكة أو الإدخال/الإخراج - %s</string>

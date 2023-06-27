@@ -28,7 +28,7 @@
   <string name="navigation_drawer_website">Web sitesi</string>
   <string name="navigation_drawer_faq">SSS</string>
   <string name="navigation_drawer_donate">Bağış yap</string>
-  <string name="account_list_empty">DAVx⁵\'e hoşgeldin!\n\nŞimdi bir CalDAV/CardDAV hesabı ekleyebilirsin.</string>
+  <string name="account_list_empty">Twake Sync\'e hoşgeldin!\n\nŞimdi bir CalDAV/CardDAV hesabı ekleyebilirsin.</string>
   <!--RefreshCollectionsWorker-->
   <string name="refresh_collections_worker_refresh_failed">Servis keşfi başarısız</string>
   <string name="refresh_collections_worker_refresh_couldnt_refresh">Kolleksiyon listesi yenilenemedi</string>
@@ -129,7 +129,7 @@
   <string name="webdav_add_mount_username">Kullanıcı adı</string>
   <string name="webdav_add_mount_password">Parola</string>
   <!--sync-->
-  <string name="sync_error_permissions">DAVx⁵ izinleri</string>
+  <string name="sync_error_permissions">Twake Sync izinleri</string>
   <string name="sync_error_permissions_text">Ek izinler zorunludur</string>
   <!--cert4android-->
 </resources>
