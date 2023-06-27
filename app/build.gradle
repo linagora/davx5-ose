@@ -21,12 +21,12 @@ android {
 
         buildConfigField "long", "buildTime", System.currentTimeMillis() + "L"
 
-        setProperty "archivesBaseName", "davx5-ose-" + getVersionName()
+        setProperty "archivesBaseName", "twake-sync-" + getVersionName()
 
         minSdkVersion 21        // Android 5
         targetSdkVersion 33     // Android 13
 
-        buildConfigField "String", "userAgent", "\"DAVx5\""
+        buildConfigField "String", "userAgent", "\"TwakeSync\""
 
         testInstrumentationRunner "at.bitfire.davdroid.CustomTestRunner"
 
