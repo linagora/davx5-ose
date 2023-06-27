@@ -250,28 +250,6 @@ class AppSettingsActivity: AppCompatActivity() {
                     false
                 }
             }
-
-            // integration settings
-            findPreference<Preference>(Settings.PREFERRED_TASKS_PROVIDER)!!.apply {
-                val pm = requireActivity().packageManager
-                val taskProvider = TaskUtils.currentProvider(requireActivity())
-                if (taskProvider != null) {
-                    val tasksAppInfo = pm.getApplicationInfo(taskProvider.packageName, 0)
-                    val inset = (24*resources.displayMetrics.density).roundToInt()  // 24dp
-                    icon = InsetDrawable(
-                            tasksAppInfo.loadIcon(pm),
-                            0, inset, inset, inset
-                    )
-                    summary = getString(R.string.app_settings_tasks_provider_synchronizing_with, tasksAppInfo.loadLabel(pm))
-                } else {
-                    setIcon(R.drawable.ic_playlist_add_check)
-                    setSummary(R.string.app_settings_tasks_provider_none)
-                }
-                setOnPreferenceClickListener {
-                    startActivity(Intent(requireActivity(), TasksActivity::class.java))
-                    false
-                }
-            }
         }
 
         override fun onSettingsChanged() {
