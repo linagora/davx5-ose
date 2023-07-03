@@ -90,3 +90,6 @@ gradle-app.setting
 
 # Javadoc
 javadoc/
+
+# Play store keys
+*.json

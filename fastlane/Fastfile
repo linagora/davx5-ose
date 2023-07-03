@@ -1,0 +1,54 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+update_fastlane
+
+# No telemetry
+opt_out_usage
+
+# Setup for CI
+setup_ci
+
+default_platform(:android)
+
+platform :android do
+  desc "Build Debug APK for CodeQL"
+  lane :build_debug do
+    gradle(task: "app:assembleOseDebug")
+  end
+
+  desc "Build Release APK"
+  lane :build_release do
+    gradle(tasks: ["app:clean","app:assembleRelease"])
+  end
+
+  desc "Run lint and unit tests"
+  lane :test do
+    gradle(task: "app:check")
+  end
+
+  desc "Run test on emulators"
+  lane :emulator_test do
+    gradle(task: "app:connectedCheck")
+  end
+
+  desc "Deploy a new version to the Google Play internal track"
+  lane :deploy do
+    track = "alpha"
+
+    gradle(tasks: ["app:clean", "app:bundleRelease"])
+    upload_to_play_store(json_key: "./keys.json",
+                         track: track,
+                         aab: lane_context[SharedValues::GRADLE_AAB_OUTPUT_PATH])
+  end
+end
