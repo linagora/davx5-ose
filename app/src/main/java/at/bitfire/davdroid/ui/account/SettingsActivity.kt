@@ -115,7 +115,7 @@ class SettingsActivity: AppCompatActivity() {
 
         override fun onResume() {
             super.onResume()
-            checkWifiPermissions()
+//            checkWifiPermissions()
         }
 
         private fun initSettings() {
@@ -179,43 +179,43 @@ class SettingsActivity: AppCompatActivity() {
                 })
             }
 
-            findPreference<SwitchPreferenceCompat>(getString(R.string.settings_sync_wifi_only_key))!!.let {
-                model.syncWifiOnly.observe(viewLifecycleOwner, { wifiOnly ->
-                    it.isEnabled = !settings.containsKey(AccountSettings.KEY_WIFI_ONLY)
-                    it.isChecked = wifiOnly
-                    it.onPreferenceChangeListener = Preference.OnPreferenceChangeListener { _, wifiOnly ->
-                        model.updateSyncWifiOnly(wifiOnly as Boolean)
-                        false
-                    }
-                })
-            }
+//            findPreference<SwitchPreferenceCompat>(getString(R.string.settings_sync_wifi_only_key))!!.let {
+//                model.syncWifiOnly.observe(viewLifecycleOwner, { wifiOnly ->
+//                    it.isEnabled = !settings.containsKey(AccountSettings.KEY_WIFI_ONLY)
+//                    it.isChecked = wifiOnly
+//                    it.onPreferenceChangeListener = Preference.OnPreferenceChangeListener { _, wifiOnly ->
+//                        model.updateSyncWifiOnly(wifiOnly as Boolean)
+//                        false
+//                    }
+//                })
+//            }
 
-            findPreference<EditTextPreference>(getString(R.string.settings_sync_wifi_only_ssids_key))!!.let {
-                model.syncWifiOnly.observe(viewLifecycleOwner, { wifiOnly ->
-                    it.isEnabled = wifiOnly && settings.isWritable(AccountSettings.KEY_WIFI_ONLY_SSIDS)
-                })
-                model.syncWifiOnlySSIDs.observe(viewLifecycleOwner, { onlySSIDs ->
-                    checkWifiPermissions()
-
-                    if (onlySSIDs != null) {
-                        it.text = onlySSIDs.joinToString(", ")
-                        it.summary = getString(if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O)
-                                R.string.settings_sync_wifi_only_ssids_on_location_services
-                                else R.string.settings_sync_wifi_only_ssids_on, onlySSIDs.joinToString(", "))
-                    } else {
-                        it.text = ""
-                        it.setSummary(R.string.settings_sync_wifi_only_ssids_off)
-                    }
-                    it.onPreferenceChangeListener = Preference.OnPreferenceChangeListener { _, newValue ->
-                        val newOnlySSIDs = (newValue as String)
-                                .split(',')
-                                .mapNotNull { StringUtils.trimToNull(it) }
-                                .distinct()
-                        model.updateSyncWifiOnlySSIDs(newOnlySSIDs)
-                        false
-                    }
-                })
-            }
+//            findPreference<EditTextPreference>(getString(R.string.settings_sync_wifi_only_ssids_key))!!.let {
+//                model.syncWifiOnly.observe(viewLifecycleOwner, { wifiOnly ->
+//                    it.isEnabled = wifiOnly && settings.isWritable(AccountSettings.KEY_WIFI_ONLY_SSIDS)
+//                })
+//                model.syncWifiOnlySSIDs.observe(viewLifecycleOwner, { onlySSIDs ->
+//                    checkWifiPermissions()
+//
+//                    if (onlySSIDs != null) {
+//                        it.text = onlySSIDs.joinToString(", ")
+//                        it.summary = getString(if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O)
+//                                R.string.settings_sync_wifi_only_ssids_on_location_services
+//                                else R.string.settings_sync_wifi_only_ssids_on, onlySSIDs.joinToString(", "))
+//                    } else {
+//                        it.text = ""
+//                        it.setSummary(R.string.settings_sync_wifi_only_ssids_off)
+//                    }
+//                    it.onPreferenceChangeListener = Preference.OnPreferenceChangeListener { _, newValue ->
+//                        val newOnlySSIDs = (newValue as String)
+//                                .split(',')
+//                                .mapNotNull { StringUtils.trimToNull(it) }
+//                                .distinct()
+//                        model.updateSyncWifiOnlySSIDs(newOnlySSIDs)
+//                        false
+//                    }
+//                })
+//            }
 
             // preference group: authentication
             val prefUserName = findPreference<EditTextPreference>("username")!!
@@ -371,14 +371,14 @@ class SettingsActivity: AppCompatActivity() {
 
         @SuppressLint("WrongConstant")
         private fun checkWifiPermissions() {
-            if (model.syncWifiOnlySSIDs.value != null && !PermissionUtils.canAccessWifiSsid(requireActivity()))
-                Snackbar.make(requireView(), R.string.settings_sync_wifi_only_ssids_permissions_required, UiUtils.SNACKBAR_LENGTH_VERY_LONG)
-                        .setAction(R.string.settings_sync_wifi_only_ssids_permissions_action) {
-                            val intent = Intent(requireActivity(), WifiPermissionsActivity::class.java)
-                            intent.putExtra(WifiPermissionsActivity.EXTRA_ACCOUNT, account)
-                            startActivity(intent)
-                        }
-                    .show()
+//            if (model.syncWifiOnlySSIDs.value != null && !PermissionUtils.canAccessWifiSsid(requireActivity()))
+//                Snackbar.make(requireView(), R.string.settings_sync_wifi_only_ssids_permissions_required, UiUtils.SNACKBAR_LENGTH_VERY_LONG)
+//                        .setAction(R.string.settings_sync_wifi_only_ssids_permissions_action) {
+//                            val intent = Intent(requireActivity(), WifiPermissionsActivity::class.java)
+//                            intent.putExtra(WifiPermissionsActivity.EXTRA_ACCOUNT, account)
+//                            startActivity(intent)
+//                        }
+//                    .show()
         }
 
     }
