@@ -22,7 +22,7 @@ android {
     defaultConfig {
         applicationId "com.twake.android.sync"
 
-        versionCode 403030007
+        versionCode 403030008
         versionName '4.3.4'
 
         buildConfigField "long", "buildTime", System.currentTimeMillis() + "L"
