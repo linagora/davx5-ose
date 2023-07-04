@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <PreferenceCategory
         android:key="sync"
@@ -32,6 +33,7 @@
         <SwitchPreferenceCompat
             android:key="@string/settings_sync_wifi_only_key"
             android:persistent="false"
+            app:isPreferenceVisible="false"
             android:title="@string/settings_sync_wifi_only"
             android:icon="@drawable/ic_network_wifi"
             android:summaryOn="@string/settings_sync_wifi_only_on"
@@ -40,6 +42,7 @@
         <EditTextPreference
             android:key="@string/settings_sync_wifi_only_ssids_key"
             android:persistent="false"
+            app:isPreferenceVisible="false"
             android:title="@string/settings_sync_wifi_only_ssids"
             android:dialogMessage="@string/settings_sync_wifi_only_ssids_message"/>
 
